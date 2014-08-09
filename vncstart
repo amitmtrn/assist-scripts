@@ -1,0 +1,2 @@
+#!/bin/bash
+x11vnc -auth /var/run/gdm/auth-for-mflame-6ZNfae/database -display :0
